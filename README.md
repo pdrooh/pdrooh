@@ -2,7 +2,7 @@
 
  -🔭 Hoje eu trabalho com pós-venda ativo, querendo oportunidade de trabalhar com programação
  -🌱 Estudando JavaScript
- -😄 Pronouns: ele/dele
+ 
 
 <div align="center">
   <a href="https://github.com/pdrooh">
