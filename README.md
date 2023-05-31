@@ -1,6 +1,6 @@
 ## Eaee! Eu sou o Pedro 👋
 
- -🔭 Hoje eu trabalho com pós-venda ativo, querendo oportunidade de trabalhar com programação
+ -🔭 Atualmente trabalho dentro da IKATEC Engenharia de Software, atuando como Analista de suporte! 
  -🌱 Estudando JavaScript
  
 
