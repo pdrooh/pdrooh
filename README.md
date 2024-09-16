@@ -2,7 +2,7 @@
 
  -🔭 Atualmente trabalho dentro da IKATEC Engenharia de Software, atuando como Analista de suporte! 
  
- -🌱 Estudando JavaScript
+ -🌱 Codando alguns projetos pessoas e visando automações para melhora de perfomance dentro de tarefas. 
  
 
 <div align="center">
