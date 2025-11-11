@@ -1,8 +1,8 @@
 ## Eaee! Eu sou o Pedro 👋
 
- -🔭 Atualmente trabalho dentro da IKATEC Engenharia de Software, atuando como Analista de suporte! 
+ -🔭 Atualmente trabalho desenvolvendo automaçoes e sites personalizados para empresas.
  
- -🌱 Codando alguns projetos pessoas e visando automações para melhora de perfomance dentro de tarefas. 
+ -🌱 Codando alguns projetos pessoas e visando se aperfeicoar a cada dia com uso de IAS para uma melhor perfomance. 
  
 
 <div align="center">
